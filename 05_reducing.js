@@ -46,7 +46,7 @@ fetch("https://randomuser.me/api/?results=10")
     // };
     // const profilesByAgeGroups = profiles.reduce((acc, profile) => {
     //   const key = categorizByAge(profile.dob.age);
-    //   acc[key] += 1;
+    //   acc[key] += 1; 
     //   return acc;
     // }, ageGroups);
     // console.log(profilesByAgeGroups);
